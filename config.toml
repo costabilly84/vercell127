@@ -1,0 +1,4 @@
+baseURL = "https://trumpetsheetmusic54.vercel.app"
+languageCode = "en-us"
+title = "Free Trumpet Sheet Music"
+theme = "tale-hugo-master"
